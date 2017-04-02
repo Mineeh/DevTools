@@ -1,7 +1,7 @@
 name: DevTools
 main: DevTools\DevTools
 version: 1.2
-api: 2.0.0
+api: 3.0.1
 load: STARTUP
 author: PocketMine Team & TesseractTeam
 description: Plugin and server development tools for Tesseract.
